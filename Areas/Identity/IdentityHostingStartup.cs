@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using newProject.Areas.Identity.Data;
+using newProject.Models;
 
 [assembly: HostingStartup(typeof(newProject.Areas.Identity.IdentityHostingStartup))]
 namespace newProject.Areas.Identity

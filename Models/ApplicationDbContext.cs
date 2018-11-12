@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using newProject.Areas.Identity.Data;
 
-namespace newProject.Areas.Identity.Data
+
+namespace newProject.Models
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
