@@ -9,5 +9,13 @@ namespace Project.Models
     // Add profile data for application users by adding properties to the ApplicationUser class
     public class ApplicationUser : IdentityUser
     {
+        public ApplicationUser() 
+        {
+            Posts = new HashSet<Post>();
+        }
+        public string Name {get;set;}
+        public string City {get;set;}
+        public string Country {get;set;}
+        public ICollection<Post> Posts {get;set;}
     }
 }

@@ -1,0 +1,13 @@
+/Users/wajeehahmed/Projects/newProject/Project/bin/Debug/netcoreapp2.0/app.db
+/Users/wajeehahmed/Projects/newProject/Project/bin/Debug/netcoreapp2.0/Project.deps.json
+/Users/wajeehahmed/Projects/newProject/Project/bin/Debug/netcoreapp2.0/Project.runtimeconfig.json
+/Users/wajeehahmed/Projects/newProject/Project/bin/Debug/netcoreapp2.0/Project.runtimeconfig.dev.json
+/Users/wajeehahmed/Projects/newProject/Project/bin/Debug/netcoreapp2.0/Project.dll
+/Users/wajeehahmed/Projects/newProject/Project/bin/Debug/netcoreapp2.0/Project.pdb
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/Project.csprojAssemblyReference.cache
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/Project.csproj.CoreCompileInputs.cache
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/Project.AssemblyInfoInputs.cache
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/Project.AssemblyInfo.cs
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/Project.dll
+/Users/wajeehahmed/Projects/newProject/Project/obj/Debug/netcoreapp2.0/Project.pdb
